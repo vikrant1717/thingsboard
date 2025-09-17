@@ -147,8 +147,9 @@
         <snappy.version>1.1.10.5</snappy.version>
         <rocksdbjni.version>9.10.0</rocksdbjni.version>
         <netty.version>4.1.124.Final</netty.version>
-    </properties>
         <sonar.organization>vikrant1717</sonar.organization>
+    </properties>
+        
 
     <modules>
         <module>netty-mqtt</module>
